@@ -1,6 +1,6 @@
 # Konfigurationshandbuch · `config.lua`
 
-Vollständige Referenz zu **`config.lua`** der Resource **ec_chat** (Projekt **ec_chat_theme**). Sprache: **Deutsch**.
+Vollständige Referenz zu **`config.lua`** der Resource **ec_chat**. Sprache: **Deutsch**.
 
 > **Überblick, Installation, Bedienung:** [`README.md`](./README.md)  
 > **UI-only Einstellungen** (Position, Historie-Popup — ohne `config.lua`): [Anhang A](#anhang-a--ui-einstellungen-nicht-in-configlua)
