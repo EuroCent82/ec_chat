@@ -199,12 +199,8 @@ function EcChat.PushHistoryCommandSuggestions()
 
     local name = EcChat.HistoryToggleCommandName()
 
-    EcChat.UpsertSuggestion(name, "HUD-Nachrichtenliste: Standard mit Auto-Fade oder Streamer ohne Anzeige.", {
-
-        { name = "on", help = "Standard — Historie sichtbar, blendet nach Config aus (wie ESX-Chat)." },
-
-        { name = "off", help = "Streamer — keine Nachrichten auf dem Bildschirm (Eingabe bleibt)." },
-
+    EcChat.UpsertSuggestion(name, "Steuert die Anzeige des HUD-Nachrichtenverläufs.", {
+        { name = "on|off", help = "on — Verlauf sichtbar mit Auto-Ausblendung · off — ausgeblendet (Streamer-Modus)" },
     })
 
     if EcChat.RebuildSuggestions then
