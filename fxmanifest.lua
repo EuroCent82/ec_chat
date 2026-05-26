@@ -4,7 +4,7 @@ game 'gta5'
 author 'EuroCent'
 name 'ec_chat'
 description 'Custom FiveM Chat, UI with autocomplete and quick actions'
-version '1.2.30'
+version '1.2.31'
 
 shared_scripts {
     'config.lua',

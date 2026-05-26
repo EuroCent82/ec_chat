@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EuroCent82/ec_chat/releases"><img src="https://img.shields.io/badge/Version-1.2.30-7cfc00?style=for-the-badge" alt="Version 1.2.30" /></a>
+  <a href="https://github.com/EuroCent82/ec_chat/releases"><img src="https://img.shields.io/badge/Version-1.2.31-7cfc00?style=for-the-badge" alt="Version 1.2.31" /></a>
   <a href="https://github.com/EuroCent82/ec_chat/releases/latest"><img src="https://img.shields.io/github/v/release/EuroCent82/ec_chat?style=for-the-badge&label=Release" alt="GitHub Release" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License" /></a>
   <a href="https://github.com/EuroCent82/ec_chat"><img src="https://img.shields.io/badge/GitHub-EuroCent82%2Fec__chat-181717?style=for-the-badge&logo=github" alt="Repository" /></a>
